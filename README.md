@@ -6,6 +6,8 @@ This repository contains code, reports, and results for assignments in the EE449
 
 - [Homework 1](#homework-1)
 - [Homework 2](#homework-2)
+- [Homework 3](#homework-3)
+
 
 ## Introduction
 
@@ -40,6 +42,11 @@ Conduct experiments using evolutionary algorithms to generate images.
 - The task involves creating an image composed of filled circles, aiming to visually resemble a given RGB source image.
 - Experimentation with evolutionary algorithms to achieve the desired results.
 
+## Homework 3
+
+### Objective
+
+Getting Out of a Maze with a Reinforcement Learning Agent using TD(0) and Q learning.
 #### Tools and Technologies
 
 - **Python**: Primary programming language.
